@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: generic
 
 ## If the cache gets corrupted, clean it at https://travis-ci.com/ORG/REPO/caches .
